@@ -4,7 +4,7 @@ Aqui você encontra o Roadmap do projeto Franzininho e status de algumas ativida
 
 ## Projetos
 
-- Franzininho WiFi: Adicionar suporte ao MicroPyyhon
+- Franzininho WiFi: Adicionar suporte ao MicroPython
 - Franzininho WiFi: Cutomizar bibliotecas para micropython
 - Franzininho WiFi: Plataforma de programação em Blocos 
 - Franzininho WiFi: Gravação via browser (WEB ESP TOOLS)
@@ -23,7 +23,7 @@ Aqui você encontra o Roadmap do projeto Franzininho e status de algumas ativida
 ## Atividades em Andamento
 
 ### Projetos em Andamento
-- Franzininho WiFi: Adicionar suporte ao MicroPyyhon
+- Franzininho WiFi: Adicionar suporte ao MicroPython
 - Franzininho WiFi: Plataforma de programação em Blocos
 - Franzininho WiFi: Gravação via browser (WEB ESP TOOLS)
 - Franzininho WiFi: Shield para laboratório
